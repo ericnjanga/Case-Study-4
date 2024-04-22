@@ -1,5 +1,7 @@
 /app/public/wp-admin
 /app/public/wp-includes
+/app/public/wp-includes
+/app/public/wp-content/themes/blankslate/ui-code/node_modules/
 /app/sql
 /conf
 /logs
