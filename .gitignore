@@ -3,3 +3,4 @@
 /app/sql
 /conf
 /logs
+.DS_Store
